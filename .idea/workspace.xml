@@ -1,17 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="78db5890-ac14-4281-a26c-ff7077b7fc65" name="변경" comment="" />
+    <list default="true" id="78db5890-ac14-4281-a26c-ff7077b7fc65" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/src/C2_02_CircleArea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C2_03_TypeConversion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C2_04_Scanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C2_05_ArithmeticOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C2_06_AssignmentIncDecOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C2_07_LogicalOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C2_08_TernaryOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C2_09_BitOperator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/C1_1_Hello1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C1_01_Hello1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/C1_2_Hello2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C1_02_Hello2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/C1_3_Hello3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C1_03_Hello3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/C2_1_BasicOfJavaStructure.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_01_BasicOfJavaStructure.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 3
-}]]></component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2mhQjVUc88xclZkr4dY8eUvuQ4a" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="flattenModules" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -20,12 +48,59 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+    "vue.rearranger.settings.migration": "true",
+    "애플리케이션.C2_07_LogicalOperator.executor": "Run",
+    "애플리케이션.C2_08_TernaryOperator.executor": "Run",
+    "애플리케이션.C2_09_BitOperator.executor": "Run",
+    "애플리케이션.C2_2_CircleArea.executor": "Debug",
+    "애플리케이션.C2_3_TypeConversion.executor": "Debug",
+    "애플리케이션.C2_4_Scanner.executor": "Run",
+    "애플리케이션.C2_5_ArithmeticOperator.executor": "Run",
+    "애플리케이션.C2_6_AssignmentIncDecOperator.executor": "Debug"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="애플리케이션.C2_09_BitOperator">
+    <configuration name="C2_04_Scanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C2_04_Scanner" />
+      <module name="Chapter1_2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C2_05_ArithmeticOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C2_05_ArithmeticOperator" />
+      <module name="Chapter1_2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C2_06_AssignmentIncDecOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C2_06_AssignmentIncDecOperator" />
+      <module name="Chapter1_2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C2_07_LogicalOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C2_07_LogicalOperator" />
+      <module name="Chapter1_2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C2_09_BitOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C2_09_BitOperator" />
+      <module name="Chapter1_2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JetRunConfigurationType">
       <module name="Z02. 자바 연습" />
       <method v="2">
@@ -39,6 +114,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="애플리케이션.C2_09_BitOperator" />
+        <item itemvalue="애플리케이션.C2_07_LogicalOperator" />
+        <item itemvalue="애플리케이션.C2_06_AssignmentIncDecOperator" />
+        <item itemvalue="애플리케이션.C2_05_ArithmeticOperator" />
+        <item itemvalue="애플리케이션.C2_04_Scanner" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -57,6 +141,8 @@
       <option name="presentableId" value="Default" />
       <updated>1727526465427</updated>
       <workItem from="1727526466470" duration="55000" />
+      <workItem from="1728347040698" duration="4664000" />
+      <workItem from="1728361815261" duration="2196000" />
     </task>
     <servers />
   </component>

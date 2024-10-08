@@ -1,4 +1,4 @@
-public class C2_1_BasicOfJavaStructure {
+public class C2_01_BasicOfJavaStructure {
     // 메소드, 클래스의 맴버 함수를 자바에서 메소드러고 한다.
     public static int sum(int n, int m) {
         return n + m;

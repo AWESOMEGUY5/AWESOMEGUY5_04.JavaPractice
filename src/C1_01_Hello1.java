@@ -1,4 +1,4 @@
-public class C1_1_Hello1 {
+public class C1_01_Hello1 {
     public static int sum(int i, int j) {
         return i + j;
     }

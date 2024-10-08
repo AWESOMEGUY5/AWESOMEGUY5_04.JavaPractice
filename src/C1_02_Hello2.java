@@ -1,4 +1,4 @@
-public class C1_2_Hello2 {
+public class C1_02_Hello2 {
     public static void main(String[] args) {
         String a = "Welcome! \n자바 세계로 오신 것을 환영합니다.";
 

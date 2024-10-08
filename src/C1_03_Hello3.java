@@ -1,4 +1,4 @@
-public class C1_3_Hello3 {
+public class C1_03_Hello3 {
     public static void main(String[] args) {
         String a = "Sorry~~ \n재밌어서 미안합니다~~";
 
