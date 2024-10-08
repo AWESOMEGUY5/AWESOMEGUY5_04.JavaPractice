@@ -5,19 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="78db5890-ac14-4281-a26c-ff7077b7fc65" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/src/C2_02_CircleArea.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/C2_03_TypeConversion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/C2_04_Scanner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/C2_05_ArithmeticOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/C2_06_AssignmentIncDecOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/C2_07_LogicalOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/C2_08_TernaryOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/C2_09_BitOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C2_10_IF1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C2_11_IF2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C2_12_IF_ELSE1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C2_13_NestedIF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C2_14_Switch1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C2_15_Switch2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C2_16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C2_17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C2_18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C2_19.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/C1_1_Hello1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C1_01_Hello1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/C1_2_Hello2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C1_02_Hello2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/C1_3_Hello3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C1_03_Hello3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/C2_1_BasicOfJavaStructure.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_01_BasicOfJavaStructure.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +56,16 @@
     "애플리케이션.C2_07_LogicalOperator.executor": "Run",
     "애플리케이션.C2_08_TernaryOperator.executor": "Run",
     "애플리케이션.C2_09_BitOperator.executor": "Run",
+    "애플리케이션.C2_10_IF1.executor": "Run",
+    "애플리케이션.C2_11_IF2.executor": "Run",
+    "애플리케이션.C2_12_IF_ELSE1.executor": "Run",
+    "애플리케이션.C2_13_NestedIF.executor": "Run",
+    "애플리케이션.C2_14_Switch1.executor": "Run",
+    "애플리케이션.C2_15_Switch2.executor": "Run",
+    "애플리케이션.C2_16.executor": "Run",
+    "애플리케이션.C2_17.executor": "Run",
+    "애플리케이션.C2_18.executor": "Run",
+    "애플리케이션.C2_19.executor": "Run",
     "애플리케이션.C2_2_CircleArea.executor": "Debug",
     "애플리케이션.C2_3_TypeConversion.executor": "Debug",
     "애플리케이션.C2_4_Scanner.executor": "Run",
@@ -65,37 +73,37 @@
     "애플리케이션.C2_6_AssignmentIncDecOperator.executor": "Debug"
   }
 }]]></component>
-  <component name="RunManager" selected="애플리케이션.C2_09_BitOperator">
-    <configuration name="C2_04_Scanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C2_04_Scanner" />
+  <component name="RunManager" selected="애플리케이션.C2_19">
+    <configuration name="C2_13_NestedIF" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C2_13_NestedIF" />
       <module name="Chapter1_2" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C2_05_ArithmeticOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C2_05_ArithmeticOperator" />
+    <configuration name="C2_16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C2_16" />
       <module name="Chapter1_2" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C2_06_AssignmentIncDecOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C2_06_AssignmentIncDecOperator" />
+    <configuration name="C2_17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C2_17" />
       <module name="Chapter1_2" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C2_07_LogicalOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C2_07_LogicalOperator" />
+    <configuration name="C2_18" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C2_18" />
       <module name="Chapter1_2" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C2_09_BitOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C2_09_BitOperator" />
+    <configuration name="C2_19" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C2_19" />
       <module name="Chapter1_2" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -116,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="애플리케이션.C2_09_BitOperator" />
-        <item itemvalue="애플리케이션.C2_07_LogicalOperator" />
-        <item itemvalue="애플리케이션.C2_06_AssignmentIncDecOperator" />
-        <item itemvalue="애플리케이션.C2_05_ArithmeticOperator" />
-        <item itemvalue="애플리케이션.C2_04_Scanner" />
+        <item itemvalue="애플리케이션.C2_19" />
+        <item itemvalue="애플리케이션.C2_18" />
+        <item itemvalue="애플리케이션.C2_17" />
+        <item itemvalue="애플리케이션.C2_16" />
+        <item itemvalue="애플리케이션.C2_13_NestedIF" />
       </list>
     </recent_temporary>
   </component>
@@ -142,7 +150,7 @@
       <updated>1727526465427</updated>
       <workItem from="1727526466470" duration="55000" />
       <workItem from="1728347040698" duration="4664000" />
-      <workItem from="1728361815261" duration="2196000" />
+      <workItem from="1728361815261" duration="12252000" />
     </task>
     <servers />
   </component>
