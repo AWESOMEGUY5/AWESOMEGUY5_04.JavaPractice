@@ -5,17 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="78db5890-ac14-4281-a26c-ff7077b7fc65" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/src/C2_10_IF1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/C2_11_IF2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/C2_12_IF_ELSE1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/C2_13_NestedIF.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/C2_14_Switch1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/C2_15_Switch2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/C2_16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/C2_17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/C2_18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/C2_19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C2_20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C2_21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C2_22.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/C2_19.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C2_19.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +46,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "run.code.analysis.last.selected.profile": "pProject Default",
     "vue.rearranger.settings.migration": "true",
     "애플리케이션.C2_07_LogicalOperator.executor": "Run",
     "애플리케이션.C2_08_TernaryOperator.executor": "Run",
@@ -66,6 +61,9 @@
     "애플리케이션.C2_17.executor": "Run",
     "애플리케이션.C2_18.executor": "Run",
     "애플리케이션.C2_19.executor": "Run",
+    "애플리케이션.C2_20.executor": "Run",
+    "애플리케이션.C2_21.executor": "Run",
+    "애플리케이션.C2_22.executor": "Run",
     "애플리케이션.C2_2_CircleArea.executor": "Debug",
     "애플리케이션.C2_3_TypeConversion.executor": "Debug",
     "애플리케이션.C2_4_Scanner.executor": "Run",
@@ -73,28 +71,7 @@
     "애플리케이션.C2_6_AssignmentIncDecOperator.executor": "Debug"
   }
 }]]></component>
-  <component name="RunManager" selected="애플리케이션.C2_19">
-    <configuration name="C2_13_NestedIF" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C2_13_NestedIF" />
-      <module name="Chapter1_2" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C2_16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C2_16" />
-      <module name="Chapter1_2" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C2_17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C2_17" />
-      <module name="Chapter1_2" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="애플리케이션.C2_22">
     <configuration name="C2_18" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="C2_18" />
       <module name="Chapter1_2" />
@@ -104,6 +81,27 @@
     </configuration>
     <configuration name="C2_19" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="C2_19" />
+      <module name="Chapter1_2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C2_20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C2_20" />
+      <module name="Chapter1_2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C2_21" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C2_21" />
+      <module name="Chapter1_2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C2_22" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C2_22" />
       <module name="Chapter1_2" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -124,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.C2_22" />
+        <item itemvalue="애플리케이션.C2_21" />
+        <item itemvalue="애플리케이션.C2_20" />
         <item itemvalue="애플리케이션.C2_19" />
         <item itemvalue="애플리케이션.C2_18" />
-        <item itemvalue="애플리케이션.C2_17" />
-        <item itemvalue="애플리케이션.C2_16" />
-        <item itemvalue="애플리케이션.C2_13_NestedIF" />
       </list>
     </recent_temporary>
   </component>
@@ -150,11 +148,22 @@
       <updated>1727526465427</updated>
       <workItem from="1727526466470" duration="55000" />
       <workItem from="1728347040698" duration="4664000" />
-      <workItem from="1728361815261" duration="12252000" />
+      <workItem from="1728361815261" duration="31577000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
